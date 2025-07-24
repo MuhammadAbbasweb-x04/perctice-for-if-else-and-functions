@@ -106,15 +106,37 @@
 // }
  
 
-var product = parseInt(prompt("enter your product price "));
-if( product >=900 && product <= 1000 ){
-console.log("Buy now with discount");
-} else if( product >= 500 && product <= 800 ){
-console.log("Buy now");
-} else if (   product === 0){
-console.log("Out of stock");
-} else{
-    console.log("inviled number");
-}
+// var product = parseInt(prompt("enter your product price "));
+// if( product >=900 && product <= 1000 ){
+// console.log("Buy now with discount");
+// } else if( product >= 500 && product <= 800 ){
+// console.log("Buy now");
+// } else if (   product === 0){
+// console.log("Out of stock");
+// } else{
+//     console.log("inviled number");
+// }
+
+
+
+// function username(){
+//     console.log("muhammadabbas");
+//         console.log("muhammadabbas");
+//             console.log("muhammadabbas");
+// }
+// username()
+
+
+
+// for(let i = 1; i < 130; i++){
+//     console.log(i);
+// }
+
+// let i = 10;
+// while(i>1){
+// console.log(i);
+// i--;
+// }
+
 
 
